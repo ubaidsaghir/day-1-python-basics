@@ -17,3 +17,4 @@ else:
 print(marks)
 print(marks[1:-1])
 print(marks[1:4:2])
+print("Hello")
