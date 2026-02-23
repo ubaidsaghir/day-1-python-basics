@@ -10,7 +10,7 @@ print(marks)
 print(type(marks))
 print(marks[len(marks)-2])
 
-if 3 in marks:
+if 52 in marks:
     print("yes")
 else:
     print("No")    
